@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\exploded-aar\BmobIM_Demo\bmobIM_SDK\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\src\debug\assets"/></dataSet></merger>

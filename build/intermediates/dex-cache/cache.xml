@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\libs\locSDK_4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\locSDK_4.2-e5d02d821d48973320b97797283c461fc2658898.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\libs\baidumapapi_v3_0_0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\baidumapapi_v3_0_0-3513c09ebffd9f8abc5ae7cc2a25a89fa206655a.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_sources-bcdddd364f454d5ad7dbb8260b5e032efad593c4.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\exploded-aar\BmobIM_Demo\bmobIM_SDK\unspecified\jars\libs\BmobSDK_V3.4.5_1111.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2012ea702d608383b9087ef43bede80ec578abfe">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.5_1111-6567af02165ec5b0d1c0ccf960cca29a1950fe9c.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\exploded-aar\BmobIM_Demo\bmobIM_SDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b450980c64b53ad5cb0c304d5f6953be91009d82">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\classes-19e8fee5e14dd765aa37a050eb6991a734476467.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\exploded-aar\BmobIM_Demo\bmobIM_SDK\unspecified\jars\libs\Bmob_Push_V0.6beta_20150408.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="db21ec99c2c7bf91c67bf80f5c5c49a92dd0562e">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\Bmob_Push_V0.6beta_20150408-4399df3571c9e436af1c107d16d919bfff47c0a6.jar" />
+    </item>
+    <item
+        jar="E:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\support-v4-18.0.0-d985e052547659f194710c15efddf5051ca012cc.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\libs\photoview-library-1.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="D:\Workspaces\androidStudio\BmobIM_Demo\bmobIM_SDK_Demo\build\intermediates\pre-dexed\debug\photoview-library-1.2.2-090196a53b7745220459c9ace507c46a1c150858.jar" />
+    </item>
+
+</items>
